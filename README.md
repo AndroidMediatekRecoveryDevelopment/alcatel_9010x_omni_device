@@ -1,0 +1,1 @@
+# android_device_alcatel_9010x
